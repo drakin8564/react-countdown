@@ -1,0 +1,29 @@
+.app {
+  text-align: center;
+}
+
+.container {
+  margin: 50px auto;
+
+}
+
+.countTimer {
+  font-size: 5em;
+}
+.countTimer .timerDiv,
+.countset, .setDiv {
+  display: inline-block;
+}
+
+.countSet {
+  width: 390px;
+}
+.countSet fieldset {
+  text-align: left;
+}
+.countSet .setDiv {
+  margin: 10px;
+}
+.countSet .setDiv input {
+  width: 60px;
+}
